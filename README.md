@@ -17,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deboas&show_icons=true&locale=en&layout=compact" alt="deboas" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deboas&show_icons=true&locale=en" alt="deboas" /></p>
-<br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deboas" alt="deboas" /></a> </p>
